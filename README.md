@@ -31,4 +31,5 @@ Para executar os arquivos PHP deste repositório, você precisará de um ambient
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/Espada-23/ads-estudos.git](https://github.com/Espada-23/ads-estudos.git)
+   git clone https://github.com/Espada-23/ads-estudos.git
+```
